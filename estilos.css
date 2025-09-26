@@ -1,0 +1,26 @@
+h1{/* Ajustes especificos para todos los h1 */
+    color: red;
+    background: rgb(111, 32, 32);
+    margin: 40px;
+    padding: 1em;
+    width: 60%;
+    height: auto;
+}
+
+h2{/* Ajustes especificos para todos los 2 */
+    color: rgb(0,128,255);
+}
+
+h3{/* Ajustes especificos para todos los 3 */
+    color: #ff5733;
+}
+
+.Nombre-tabla {
+    font-weight: bold;
+}
+
+#Titulo { text-align: center; }
+
+div i{
+    color: purple;
+}
